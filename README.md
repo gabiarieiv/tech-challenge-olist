@@ -125,3 +125,5 @@ A análise exploratória de dados permitiu identificar padrões importantes no c
 Os insights gerados demonstram como a utilização de dados pode apoiar a tomada de decisões estratégicas, contribuindo para melhorias na experiência do cliente, eficiência operacional e crescimento do negócio.
 
 Este projeto reforça a importância da análise de dados como ferramenta fundamental para organizações que atuam em ambientes digitais e altamente competitivos.
+
+Desenvolvido por: Gabriela Vieira
